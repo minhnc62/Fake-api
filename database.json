@@ -55,6 +55,8 @@
         "rate": 3.9,
         "count": 120
       },
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "qty": 1
     },
     {
@@ -76,6 +78,8 @@
         "rate": 4.1,
         "count": 259
       },
+      "color":["white","black","brown"],
+      "size":["x","m","xl", "xxl"],
       "qty": 1
     },
     {
@@ -94,6 +98,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 4.7,
         "count": 500
@@ -115,6 +121,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl","xxl"],
       "rating": {
         "rate": 2.1,
         "count": 430
@@ -136,6 +144,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 4.6,
         "count": 400
@@ -157,6 +167,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 3.9,
         "count": 70
@@ -178,6 +190,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 3,
         "count": 400
@@ -199,6 +213,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl","xxl"],
       "rating": {
         "rate": 4,
         "count": 100
@@ -220,6 +236,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 3.3,
         "count": 203
@@ -241,6 +259,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 2.9,
         "count": 470
@@ -262,6 +282,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 4.8,
         "count": 319
@@ -283,6 +305,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 4.8,
         "count": 400
@@ -304,6 +328,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 2.9,
         "count": 250
@@ -325,6 +351,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 2.2,
         "count": 140
@@ -346,6 +374,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 2.6,
         "count": 235
@@ -367,6 +397,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 2.9,
         "count": 340
@@ -388,6 +420,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 3.8,
         "count": 679
@@ -409,6 +443,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 4.7,
         "count": 130
@@ -430,6 +466,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 4.5,
         "count": 146
@@ -451,6 +489,8 @@
         "https://flone-react.pages.dev/assets/img/product/fashion/9.jpg"
       ],
       "qty": 1,
+      "color":["white","black","brown"],
+      "size":["x","m","xl"],
       "rating": {
         "rate": 3.6,
         "count": 145
